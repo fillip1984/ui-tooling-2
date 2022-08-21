@@ -6,17 +6,14 @@ This repository was inspired by a repository I found on github [TheSwordBreaker/
 
 ## Prerequisites
 
-1) Install degit (only required if you haven't used degit) - 'npm install -g degit'
+1) Install degit - 'npm install -g degit'
 2) [git](https://git-scm.com/) must be installed
 
-## Installation
+## Creating a clone from this repository
 
-After following these steps once you have alternate options. For now, follow these steps:
-
-1) Clone the repo, replace &lt;project name&gt; with the name of the application - 'npx degit fillip1984/vite-react-ts-eslint-prettier-tailwind-react-query &lt;project name&gt;'
+1) Clone the repo using degit by using the following command, make sure to replace &lt;project name&gt; with the name of the application - 'npx degit fillip1984/vite-react-ts-eslint-prettier-tailwind-react-query &lt;project name&gt;'
 2) Open the directory - cd &lt;project name&gt;
 3) Install packages - 'npm install'
-
 4) Either:
     * Start application from terminal - 'npm run dev'
     * Open VS Code - 'code .'
