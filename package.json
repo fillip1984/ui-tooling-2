@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npm run todo && vite",
     "build": "npm run todo && tsc && vite build",
-    "todo": "leasot -x -r markdown 'src/**/*{js,jsx,ts,tsx}' > TODO.md"
+    "todo": "leasot -x -r markdown './src/**/*.{js,jsx,ts,tsx}' > TODO.md"
   },
   "dependencies": {
     "@tanstack/react-query": "^4.2.1",
