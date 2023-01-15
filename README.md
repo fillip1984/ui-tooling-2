@@ -1,4 +1,4 @@
-# VITE + React + Typescript + Eslint + Prettier + Tailwind + React-Query
+# VITE + React + Typescript + Eslint + Prettier + Tailwind + React-Query + React Hook Form
 
 A starter for React with Typescript and many more useful libraries that I commonly use. I plan to use this repository to build out future side projects. You pull down a fresh copy using [degit](https://github.com/Rich-Harris/degit)
 
