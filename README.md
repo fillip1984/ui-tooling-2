@@ -24,3 +24,7 @@ This repository was inspired by a repository I found on github [TheSwordBreaker/
 2) Select the template that you've previously used
 3) Enter the destination
 4) Decide if you want to use the cached version or not
+
+## Maintaining package.json
+
+Use <https://www.npmjs.com/package/npm-check-updates>
